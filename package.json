@@ -1,0 +1,41 @@
+{
+  "name": "@foxmakers/cad-tools",
+  "version": "1.0.0",
+  "description": "FoxMakers CAD Tools — Free browser-based STL repair, STL-to-STEP converter, and OpenSCAD IDE. No install required.",
+  "keywords": [
+    "stl",
+    "stl-repair",
+    "stl-to-step",
+    "3d-printing",
+    "cad",
+    "openscad",
+    "manifold3d",
+    "mesh-repair",
+    "step-converter",
+    "foxmakers",
+    "maker",
+    "additive-manufacturing"
+  ],
+  "homepage": "https://hub.foxmakers.it/en/tools",
+  "bugs": {
+    "url": "https://github.com/FoxMaker-s/foxcad-studio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FoxMaker-s/foxcad-studio.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "FoxMakers Network",
+    "email": "info@foxmakers.it",
+    "url": "https://www.foxmakers.it"
+  },
+  "main": "index.js",
+  "files": ["index.js", "README.md", "LICENSE"],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
