@@ -1,5 +1,7 @@
 # 🖥️ FoxCAD Studio
 
+[![NPM Version](https://img.shields.io/npm/v/@foxmakers/cad-tools.svg?style=flat-square&color=red)](https://www.npmjs.com/package/@foxmakers/cad-tools)
+
 > **Free browser-based OpenSCAD IDE** with AI assistance, 30+ printer profiles, real-time STL preview and one-click export.  
 > No install. No subscription. Runs entirely in your browser.
 
